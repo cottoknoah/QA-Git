@@ -19,11 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="72de6aa2-691d-45b1-ba80-f4bddbc4b606" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/file.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="72de6aa2-691d-45b1-ba80-f4bddbc4b606" name="Default Changelist" comment="" />
+>>>>>>> 69c62953a4ead775d78e2806af67a35248993db8
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +83,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="file" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="QA-Infoysys" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +106,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+>>>>>>> 69c62953a4ead775d78e2806af67a35248993db8
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -113,7 +120,7 @@
       <workItem from="1620220318351" duration="7884000" />
       <workItem from="1620239271381" duration="1234000" />
       <workItem from="1620240528929" duration="91000" />
-      <workItem from="1620240634100" duration="1304000" />
+      <workItem from="1620240634100" duration="1944000" />
     </task>
     <servers />
   </component>
