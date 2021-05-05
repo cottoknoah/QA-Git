@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72de6aa2-691d-45b1-ba80-f4bddbc4b606" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="cd21bed6-f9b2-41cd-8e03-5481dca90f57" />
+  <component name="ProjectId" id="1s7Ole9sRl6rE2qkzqqDVL78P2m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12103\Desktop\QA-Infoysys" />
+      <recent name="C:\Users\12103\Desktop\QA-Infoysys\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="QA-Infoysys" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72de6aa2-691d-45b1-ba80-f4bddbc4b606" name="Default Changelist" comment="" />
+      <created>1620220317142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620220317142</updated>
+      <workItem from="1620220318351" duration="7884000" />
+      <workItem from="1620239271381" duration="1234000" />
+      <workItem from="1620240528929" duration="91000" />
+      <workItem from="1620240634100" duration="1304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1129" y="387" key="#Notifications" timestamp="1620240652351">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1129" y="387" key="#Notifications/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620240652351" />
+    <state x="943" y="204" key="#Plugins" timestamp="1620239304853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="943" y="204" key="#Plugins/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620239304853" />
+    <state x="871" y="138" key="#Project_Structure" timestamp="1620241108113">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="871" y="138" key="#Project_Structure/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620241108113" />
+    <state x="591" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620239410634">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="591" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620239410634" />
+    <state x="1135" y="482" key="DetectedRootsChooserDialog" timestamp="1620239035098">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1135" y="482" key="DetectedRootsChooserDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620239035098" />
+    <state x="1044" y="328" key="FileChooserDialogImpl" timestamp="1620239033183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1044" y="328" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620239033183" />
+    <state width="902" height="224" key="GridCell.Tab.0.bottom" timestamp="1620240514468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="902" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620240514468" />
+    <state width="902" height="224" key="GridCell.Tab.0.center" timestamp="1620240514468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="902" height="224" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620240514468" />
+    <state width="902" height="224" key="GridCell.Tab.0.left" timestamp="1620240514468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="902" height="224" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620240514468" />
+    <state width="902" height="224" key="GridCell.Tab.0.right" timestamp="1620240514468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="902" height="224" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620240514468" />
+    <state x="818" y="161" key="SettingsEditor" timestamp="1620239254415">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="818" y="161" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620239254415" />
+    <state x="1054" y="314" width="672" height="678" key="search.everywhere.popup" timestamp="1620239820489">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1054" y="314" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1620239820489" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
