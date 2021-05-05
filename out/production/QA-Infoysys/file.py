@@ -4,4 +4,3 @@ def print(param):
 
 print ('Hello, everyone!')
 
-# working on Python configuration
